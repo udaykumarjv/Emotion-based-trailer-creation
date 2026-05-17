@@ -1,0 +1,1366 @@
+{
+  "analysis_date": "2025-12-05 12:35:38",
+  "target_person": "punith",
+  "target_emotion": "Happy",
+  "source_video": "b.mp4",
+  "source_video_path": "C:\\Users\\LENOVO\\Desktop\\facerecognition_cnn\\b.mp4",
+  "summary_video": "punith_Happy_summary.mp4",
+  "frames_directory": "summary_punith_Happy",
+  "total_matches": 96,
+  "statistics": {
+    "average_confidence": 0.926,
+    "maximum_confidence": 1.0,
+    "average_distance": 0.7003696920971075,
+    "time_range_seconds": {
+      "start": 11.08,
+      "end": 19.79,
+      "duration": 8.709999999999999
+    }
+  },
+  "matches": [
+    {
+      "frame_number": 267,
+      "timestamp_seconds": 11.08,
+      "confidence": 0.559,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.8365849256515503,
+      "bounding_box": [
+        587,
+        139,
+        683,
+        245
+      ]
+    },
+    {
+      "frame_number": 268,
+      "timestamp_seconds": 11.12,
+      "confidence": 0.634,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.9387569427490234,
+      "bounding_box": [
+        589,
+        138,
+        684,
+        243
+      ]
+    },
+    {
+      "frame_number": 272,
+      "timestamp_seconds": 11.29,
+      "confidence": 0.625,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.9508716464042664,
+      "bounding_box": [
+        594,
+        148,
+        688,
+        253
+      ]
+    },
+    {
+      "frame_number": 273,
+      "timestamp_seconds": 11.33,
+      "confidence": 0.692,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.9473016262054443,
+      "bounding_box": [
+        594,
+        148,
+        688,
+        253
+      ]
+    },
+    {
+      "frame_number": 274,
+      "timestamp_seconds": 11.38,
+      "confidence": 0.997,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.9356013536453247,
+      "bounding_box": [
+        594,
+        149,
+        688,
+        256
+      ]
+    },
+    {
+      "frame_number": 275,
+      "timestamp_seconds": 11.42,
+      "confidence": 0.987,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.98707115650177,
+      "bounding_box": [
+        592,
+        152,
+        687,
+        257
+      ]
+    },
+    {
+      "frame_number": 276,
+      "timestamp_seconds": 11.46,
+      "confidence": 0.985,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.9859309196472168,
+      "bounding_box": [
+        592,
+        152,
+        687,
+        257
+      ]
+    },
+    {
+      "frame_number": 277,
+      "timestamp_seconds": 11.5,
+      "confidence": 0.998,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.9624545574188232,
+      "bounding_box": [
+        592,
+        152,
+        686,
+        256
+      ]
+    },
+    {
+      "frame_number": 278,
+      "timestamp_seconds": 11.54,
+      "confidence": 0.982,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.9385129809379578,
+      "bounding_box": [
+        593,
+        153,
+        686,
+        257
+      ]
+    },
+    {
+      "frame_number": 279,
+      "timestamp_seconds": 11.58,
+      "confidence": 0.603,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.9980330467224121,
+      "bounding_box": [
+        594,
+        151,
+        685,
+        255
+      ]
+    },
+    {
+      "frame_number": 280,
+      "timestamp_seconds": 11.62,
+      "confidence": 0.639,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.9960899949073792,
+      "bounding_box": [
+        594,
+        151,
+        685,
+        255
+      ]
+    },
+    {
+      "frame_number": 284,
+      "timestamp_seconds": 11.79,
+      "confidence": 0.588,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.8756325244903564,
+      "bounding_box": [
+        592,
+        143,
+        683,
+        249
+      ]
+    },
+    {
+      "frame_number": 285,
+      "timestamp_seconds": 11.83,
+      "confidence": 0.828,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.8646675944328308,
+      "bounding_box": [
+        593,
+        143,
+        687,
+        248
+      ]
+    },
+    {
+      "frame_number": 286,
+      "timestamp_seconds": 11.88,
+      "confidence": 0.828,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.8646836876869202,
+      "bounding_box": [
+        593,
+        143,
+        687,
+        248
+      ]
+    },
+    {
+      "frame_number": 291,
+      "timestamp_seconds": 12.08,
+      "confidence": 0.82,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.9632614254951477,
+      "bounding_box": [
+        590,
+        136,
+        682,
+        241
+      ]
+    },
+    {
+      "frame_number": 292,
+      "timestamp_seconds": 12.12,
+      "confidence": 0.818,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.940402090549469,
+      "bounding_box": [
+        590,
+        136,
+        682,
+        241
+      ]
+    },
+    {
+      "frame_number": 293,
+      "timestamp_seconds": 12.17,
+      "confidence": 0.632,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.929470956325531,
+      "bounding_box": [
+        590,
+        136,
+        683,
+        241
+      ]
+    },
+    {
+      "frame_number": 294,
+      "timestamp_seconds": 12.21,
+      "confidence": 0.914,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.9360367655754089,
+      "bounding_box": [
+        590,
+        136,
+        683,
+        242
+      ]
+    },
+    {
+      "frame_number": 296,
+      "timestamp_seconds": 12.29,
+      "confidence": 0.919,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.9886358976364136,
+      "bounding_box": [
+        589,
+        135,
+        683,
+        243
+      ]
+    },
+    {
+      "frame_number": 348,
+      "timestamp_seconds": 14.46,
+      "confidence": 0.588,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.7860791683197021,
+      "bounding_box": [
+        981,
+        124,
+        1160,
+        365
+      ]
+    },
+    {
+      "frame_number": 401,
+      "timestamp_seconds": 16.67,
+      "confidence": 0.859,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.671854555606842,
+      "bounding_box": [
+        454,
+        220,
+        714,
+        509
+      ]
+    },
+    {
+      "frame_number": 402,
+      "timestamp_seconds": 16.71,
+      "confidence": 0.859,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6716700196266174,
+      "bounding_box": [
+        454,
+        220,
+        714,
+        509
+      ]
+    },
+    {
+      "frame_number": 403,
+      "timestamp_seconds": 16.75,
+      "confidence": 0.988,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.5912795662879944,
+      "bounding_box": [
+        447,
+        229,
+        707,
+        520
+      ]
+    },
+    {
+      "frame_number": 404,
+      "timestamp_seconds": 16.79,
+      "confidence": 0.769,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.656205415725708,
+      "bounding_box": [
+        448,
+        225,
+        708,
+        510
+      ]
+    },
+    {
+      "frame_number": 405,
+      "timestamp_seconds": 16.83,
+      "confidence": 0.998,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6270542740821838,
+      "bounding_box": [
+        443,
+        230,
+        705,
+        518
+      ]
+    },
+    {
+      "frame_number": 406,
+      "timestamp_seconds": 16.88,
+      "confidence": 1.0,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6528180837631226,
+      "bounding_box": [
+        444,
+        232,
+        704,
+        518
+      ]
+    },
+    {
+      "frame_number": 407,
+      "timestamp_seconds": 16.92,
+      "confidence": 0.979,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6172912120819092,
+      "bounding_box": [
+        438,
+        231,
+        699,
+        519
+      ]
+    },
+    {
+      "frame_number": 408,
+      "timestamp_seconds": 16.96,
+      "confidence": 0.997,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6154511570930481,
+      "bounding_box": [
+        445,
+        231,
+        702,
+        519
+      ]
+    },
+    {
+      "frame_number": 409,
+      "timestamp_seconds": 17.0,
+      "confidence": 0.999,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.62539142370224,
+      "bounding_box": [
+        440,
+        235,
+        699,
+        519
+      ]
+    },
+    {
+      "frame_number": 410,
+      "timestamp_seconds": 17.04,
+      "confidence": 0.988,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6261074542999268,
+      "bounding_box": [
+        436,
+        233,
+        698,
+        520
+      ]
+    },
+    {
+      "frame_number": 411,
+      "timestamp_seconds": 17.08,
+      "confidence": 0.993,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6241493225097656,
+      "bounding_box": [
+        437,
+        236,
+        704,
+        534
+      ]
+    },
+    {
+      "frame_number": 412,
+      "timestamp_seconds": 17.12,
+      "confidence": 0.993,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6572129726409912,
+      "bounding_box": [
+        437,
+        239,
+        702,
+        535
+      ]
+    },
+    {
+      "frame_number": 413,
+      "timestamp_seconds": 17.17,
+      "confidence": 0.987,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6510934233665466,
+      "bounding_box": [
+        437,
+        239,
+        702,
+        534
+      ]
+    },
+    {
+      "frame_number": 414,
+      "timestamp_seconds": 17.21,
+      "confidence": 0.999,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.644230306148529,
+      "bounding_box": [
+        436,
+        240,
+        699,
+        532
+      ]
+    },
+    {
+      "frame_number": 415,
+      "timestamp_seconds": 17.25,
+      "confidence": 0.947,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6292086243629456,
+      "bounding_box": [
+        436,
+        237,
+        704,
+        539
+      ]
+    },
+    {
+      "frame_number": 416,
+      "timestamp_seconds": 17.29,
+      "confidence": 0.992,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6366083025932312,
+      "bounding_box": [
+        437,
+        236,
+        701,
+        537
+      ]
+    },
+    {
+      "frame_number": 417,
+      "timestamp_seconds": 17.33,
+      "confidence": 0.994,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6332191228866577,
+      "bounding_box": [
+        424,
+        235,
+        688,
+        527
+      ]
+    },
+    {
+      "frame_number": 418,
+      "timestamp_seconds": 17.38,
+      "confidence": 1.0,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6198017001152039,
+      "bounding_box": [
+        431,
+        235,
+        692,
+        527
+      ]
+    },
+    {
+      "frame_number": 419,
+      "timestamp_seconds": 17.42,
+      "confidence": 0.999,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6324068307876587,
+      "bounding_box": [
+        429,
+        235,
+        691,
+        528
+      ]
+    },
+    {
+      "frame_number": 420,
+      "timestamp_seconds": 17.46,
+      "confidence": 1.0,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6259329319000244,
+      "bounding_box": [
+        429,
+        230,
+        691,
+        525
+      ]
+    },
+    {
+      "frame_number": 421,
+      "timestamp_seconds": 17.5,
+      "confidence": 0.999,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6264926195144653,
+      "bounding_box": [
+        426,
+        232,
+        691,
+        527
+      ]
+    },
+    {
+      "frame_number": 422,
+      "timestamp_seconds": 17.54,
+      "confidence": 0.942,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6256838440895081,
+      "bounding_box": [
+        431,
+        236,
+        698,
+        541
+      ]
+    },
+    {
+      "frame_number": 423,
+      "timestamp_seconds": 17.58,
+      "confidence": 0.926,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6283400654792786,
+      "bounding_box": [
+        430,
+        238,
+        697,
+        541
+      ]
+    },
+    {
+      "frame_number": 424,
+      "timestamp_seconds": 17.62,
+      "confidence": 0.966,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6291301250457764,
+      "bounding_box": [
+        430,
+        238,
+        697,
+        541
+      ]
+    },
+    {
+      "frame_number": 425,
+      "timestamp_seconds": 17.67,
+      "confidence": 0.967,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6400107145309448,
+      "bounding_box": [
+        429,
+        238,
+        696,
+        542
+      ]
+    },
+    {
+      "frame_number": 426,
+      "timestamp_seconds": 17.71,
+      "confidence": 0.988,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6565923690795898,
+      "bounding_box": [
+        429,
+        239,
+        694,
+        539
+      ]
+    },
+    {
+      "frame_number": 427,
+      "timestamp_seconds": 17.75,
+      "confidence": 0.989,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.645238995552063,
+      "bounding_box": [
+        429,
+        239,
+        694,
+        540
+      ]
+    },
+    {
+      "frame_number": 428,
+      "timestamp_seconds": 17.79,
+      "confidence": 0.993,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6340388655662537,
+      "bounding_box": [
+        429,
+        239,
+        695,
+        541
+      ]
+    },
+    {
+      "frame_number": 429,
+      "timestamp_seconds": 17.83,
+      "confidence": 0.975,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6790281534194946,
+      "bounding_box": [
+        427,
+        238,
+        694,
+        540
+      ]
+    },
+    {
+      "frame_number": 430,
+      "timestamp_seconds": 17.88,
+      "confidence": 0.988,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6675570607185364,
+      "bounding_box": [
+        427,
+        238,
+        694,
+        541
+      ]
+    },
+    {
+      "frame_number": 431,
+      "timestamp_seconds": 17.92,
+      "confidence": 0.99,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6622337102890015,
+      "bounding_box": [
+        429,
+        238,
+        695,
+        541
+      ]
+    },
+    {
+      "frame_number": 432,
+      "timestamp_seconds": 17.96,
+      "confidence": 0.999,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6688817739486694,
+      "bounding_box": [
+        431,
+        237,
+        695,
+        537
+      ]
+    },
+    {
+      "frame_number": 433,
+      "timestamp_seconds": 18.0,
+      "confidence": 0.997,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6649265289306641,
+      "bounding_box": [
+        430,
+        238,
+        696,
+        538
+      ]
+    },
+    {
+      "frame_number": 434,
+      "timestamp_seconds": 18.04,
+      "confidence": 0.987,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.7049170732498169,
+      "bounding_box": [
+        429,
+        239,
+        697,
+        540
+      ]
+    },
+    {
+      "frame_number": 435,
+      "timestamp_seconds": 18.08,
+      "confidence": 0.997,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6562303304672241,
+      "bounding_box": [
+        432,
+        238,
+        698,
+        538
+      ]
+    },
+    {
+      "frame_number": 436,
+      "timestamp_seconds": 18.12,
+      "confidence": 0.99,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.7028365731239319,
+      "bounding_box": [
+        429,
+        239,
+        696,
+        540
+      ]
+    },
+    {
+      "frame_number": 437,
+      "timestamp_seconds": 18.17,
+      "confidence": 0.882,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6466209292411804,
+      "bounding_box": [
+        431,
+        238,
+        700,
+        544
+      ]
+    },
+    {
+      "frame_number": 438,
+      "timestamp_seconds": 18.21,
+      "confidence": 0.853,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6601853966712952,
+      "bounding_box": [
+        431,
+        238,
+        701,
+        544
+      ]
+    },
+    {
+      "frame_number": 439,
+      "timestamp_seconds": 18.25,
+      "confidence": 0.872,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6627187728881836,
+      "bounding_box": [
+        431,
+        237,
+        702,
+        546
+      ]
+    },
+    {
+      "frame_number": 440,
+      "timestamp_seconds": 18.29,
+      "confidence": 0.853,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6840031743049622,
+      "bounding_box": [
+        430,
+        237,
+        703,
+        546
+      ]
+    },
+    {
+      "frame_number": 441,
+      "timestamp_seconds": 18.33,
+      "confidence": 0.794,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6872438192367554,
+      "bounding_box": [
+        430,
+        237,
+        703,
+        545
+      ]
+    },
+    {
+      "frame_number": 442,
+      "timestamp_seconds": 18.38,
+      "confidence": 0.813,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6457245349884033,
+      "bounding_box": [
+        433,
+        236,
+        704,
+        544
+      ]
+    },
+    {
+      "frame_number": 443,
+      "timestamp_seconds": 18.42,
+      "confidence": 0.951,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6483213901519775,
+      "bounding_box": [
+        435,
+        235,
+        704,
+        544
+      ]
+    },
+    {
+      "frame_number": 444,
+      "timestamp_seconds": 18.46,
+      "confidence": 0.969,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6458974480628967,
+      "bounding_box": [
+        436,
+        236,
+        705,
+        545
+      ]
+    },
+    {
+      "frame_number": 445,
+      "timestamp_seconds": 18.5,
+      "confidence": 0.975,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.656765878200531,
+      "bounding_box": [
+        436,
+        237,
+        706,
+        544
+      ]
+    },
+    {
+      "frame_number": 446,
+      "timestamp_seconds": 18.54,
+      "confidence": 0.967,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6536789536476135,
+      "bounding_box": [
+        437,
+        235,
+        707,
+        544
+      ]
+    },
+    {
+      "frame_number": 447,
+      "timestamp_seconds": 18.58,
+      "confidence": 0.948,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6581881642341614,
+      "bounding_box": [
+        437,
+        235,
+        708,
+        545
+      ]
+    },
+    {
+      "frame_number": 448,
+      "timestamp_seconds": 18.62,
+      "confidence": 1.0,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6369344592094421,
+      "bounding_box": [
+        437,
+        233,
+        706,
+        542
+      ]
+    },
+    {
+      "frame_number": 449,
+      "timestamp_seconds": 18.67,
+      "confidence": 0.977,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6638160943984985,
+      "bounding_box": [
+        437,
+        235,
+        708,
+        545
+      ]
+    },
+    {
+      "frame_number": 450,
+      "timestamp_seconds": 18.71,
+      "confidence": 0.898,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6271440386772156,
+      "bounding_box": [
+        438,
+        236,
+        710,
+        547
+      ]
+    },
+    {
+      "frame_number": 451,
+      "timestamp_seconds": 18.75,
+      "confidence": 0.942,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6562972664833069,
+      "bounding_box": [
+        437,
+        235,
+        710,
+        547
+      ]
+    },
+    {
+      "frame_number": 452,
+      "timestamp_seconds": 18.79,
+      "confidence": 0.951,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6623418927192688,
+      "bounding_box": [
+        437,
+        235,
+        711,
+        547
+      ]
+    },
+    {
+      "frame_number": 453,
+      "timestamp_seconds": 18.83,
+      "confidence": 0.993,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6421299576759338,
+      "bounding_box": [
+        437,
+        234,
+        711,
+        546
+      ]
+    },
+    {
+      "frame_number": 454,
+      "timestamp_seconds": 18.88,
+      "confidence": 0.982,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6711168885231018,
+      "bounding_box": [
+        436,
+        235,
+        711,
+        547
+      ]
+    },
+    {
+      "frame_number": 455,
+      "timestamp_seconds": 18.92,
+      "confidence": 0.994,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6606601476669312,
+      "bounding_box": [
+        436,
+        235,
+        711,
+        546
+      ]
+    },
+    {
+      "frame_number": 456,
+      "timestamp_seconds": 18.96,
+      "confidence": 0.998,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6180586814880371,
+      "bounding_box": [
+        437,
+        236,
+        711,
+        548
+      ]
+    },
+    {
+      "frame_number": 457,
+      "timestamp_seconds": 19.0,
+      "confidence": 0.994,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6431871056556702,
+      "bounding_box": [
+        433,
+        235,
+        711,
+        552
+      ]
+    },
+    {
+      "frame_number": 458,
+      "timestamp_seconds": 19.04,
+      "confidence": 0.996,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6392487287521362,
+      "bounding_box": [
+        434,
+        234,
+        711,
+        552
+      ]
+    },
+    {
+      "frame_number": 459,
+      "timestamp_seconds": 19.08,
+      "confidence": 0.996,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6387704014778137,
+      "bounding_box": [
+        434,
+        234,
+        711,
+        552
+      ]
+    },
+    {
+      "frame_number": 460,
+      "timestamp_seconds": 19.12,
+      "confidence": 0.988,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6232865452766418,
+      "bounding_box": [
+        437,
+        233,
+        711,
+        551
+      ]
+    },
+    {
+      "frame_number": 461,
+      "timestamp_seconds": 19.17,
+      "confidence": 0.987,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6516546607017517,
+      "bounding_box": [
+        435,
+        231,
+        711,
+        550
+      ]
+    },
+    {
+      "frame_number": 462,
+      "timestamp_seconds": 19.21,
+      "confidence": 0.998,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.633753776550293,
+      "bounding_box": [
+        431,
+        233,
+        704,
+        534
+      ]
+    },
+    {
+      "frame_number": 463,
+      "timestamp_seconds": 19.25,
+      "confidence": 0.991,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6363633871078491,
+      "bounding_box": [
+        436,
+        226,
+        713,
+        548
+      ]
+    },
+    {
+      "frame_number": 464,
+      "timestamp_seconds": 19.29,
+      "confidence": 0.997,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6519122123718262,
+      "bounding_box": [
+        439,
+        225,
+        715,
+        542
+      ]
+    },
+    {
+      "frame_number": 465,
+      "timestamp_seconds": 19.33,
+      "confidence": 0.986,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6167141199111938,
+      "bounding_box": [
+        440,
+        221,
+        716,
+        543
+      ]
+    },
+    {
+      "frame_number": 466,
+      "timestamp_seconds": 19.38,
+      "confidence": 0.975,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6277916431427002,
+      "bounding_box": [
+        437,
+        219,
+        710,
+        526
+      ]
+    },
+    {
+      "frame_number": 467,
+      "timestamp_seconds": 19.42,
+      "confidence": 0.998,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6174765229225159,
+      "bounding_box": [
+        433,
+        218,
+        713,
+        523
+      ]
+    },
+    {
+      "frame_number": 468,
+      "timestamp_seconds": 19.46,
+      "confidence": 0.975,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.59926837682724,
+      "bounding_box": [
+        435,
+        212,
+        714,
+        520
+      ]
+    },
+    {
+      "frame_number": 469,
+      "timestamp_seconds": 19.5,
+      "confidence": 0.972,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.5693503022193909,
+      "bounding_box": [
+        434,
+        207,
+        716,
+        517
+      ]
+    },
+    {
+      "frame_number": 470,
+      "timestamp_seconds": 19.54,
+      "confidence": 1.0,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6018314361572266,
+      "bounding_box": [
+        445,
+        204,
+        718,
+        513
+      ]
+    },
+    {
+      "frame_number": 471,
+      "timestamp_seconds": 19.58,
+      "confidence": 1.0,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.6014642715454102,
+      "bounding_box": [
+        442,
+        210,
+        724,
+        524
+      ]
+    },
+    {
+      "frame_number": 472,
+      "timestamp_seconds": 19.62,
+      "confidence": 0.997,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.5785622596740723,
+      "bounding_box": [
+        448,
+        199,
+        722,
+        507
+      ]
+    },
+    {
+      "frame_number": 473,
+      "timestamp_seconds": 19.67,
+      "confidence": 1.0,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.5926963090896606,
+      "bounding_box": [
+        451,
+        200,
+        732,
+        516
+      ]
+    },
+    {
+      "frame_number": 474,
+      "timestamp_seconds": 19.71,
+      "confidence": 1.0,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.5981875061988831,
+      "bounding_box": [
+        458,
+        185,
+        733,
+        493
+      ]
+    },
+    {
+      "frame_number": 475,
+      "timestamp_seconds": 19.75,
+      "confidence": 0.99,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.608979344367981,
+      "bounding_box": [
+        456,
+        191,
+        735,
+        508
+      ]
+    },
+    {
+      "frame_number": 476,
+      "timestamp_seconds": 19.79,
+      "confidence": 0.775,
+      "person": "punith",
+      "emotion": "Happy",
+      "distance": 0.5899388790130615,
+      "bounding_box": [
+        450,
+        176,
+        739,
+        498
+      ]
+    }
+  ]
+}
