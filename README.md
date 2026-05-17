@@ -205,35 +205,16 @@ FaceNet
 MTCNN
 SQLite3
 HTML/CSS/JavaScript
+
+                                                     Result 1
 <img width="720" height="1017" alt="image" src="https://github.com/user-attachments/assets/947695ba-eaeb-4c01-8839-3942dae09272" />
-The result shows successful face detection, recognition, and emotion analysis for two 
-individuals in the scene. The person on the right is correctly identified as Punith with the 
-emotion Happy, achieving a confidence score of 1.00, indicating a perfect match. This is 
-marked as a successful identity match by the system. The person on the left is detected with 
-a Happy emotion but is labeled as Unknown, indicating no matching identity was found in 
-the database. Despite partial face coverage due to a mask, the emotion recognition remains 
-accurate. Overall, the result demonstrates reliable emotion detection and precise character 
-recognition when reference data is available.
 
+                                                     Result 2
 <img width="720" height="1017" alt="image" src="https://github.com/user-attachments/assets/97d44a1f-015c-4833-b9ca-53fc2d6a030a" />
-The result illustrates successful face recognition and emotion analysis for two individuals in 
-the scene. On the left, the system correctly identifies Maria with a Happy emotion and a high 
-confidence score of 0.98, indicating a strong and accurate match. This confirms reliable 
-character recognition and emotion detection. On the right, the face is detected as Unknown, 
-but the system classifies the emotion as Worried with a confidence of 0.87. This shows that 
-emotion recognition works effectively even when identity matching is not available. Overall, 
-the output demonstrates accurate emotion detection and selective identity recognition based 
-on database availability.
 
+                                                      Result 3
 <img width="720" height="1017" alt="image" src="https://github.com/user-attachments/assets/b9f14261-a7cc-4756-b344-0e6fcbed7f91" />
-The result shows emotion recognition and face matching outcomes for two detected faces in 
-the scene. On the left, the system correctly identifies Sofia with the emotion Disgusted and 
-a confidence score of 0.59, marked as a successful match. On the right, the face is identified 
-as Lee, but the system flags it as a mismatch, even though the detected emotion is also 
-Disgusted with a higher confidence of 0.78. This indicates that while emotion recognition is 
-accurate, face recognition confidence did not meet the matching threshold. The result 
-highlights the system’s ability to distinguish between correct and incorrect identity matches. 
-Overall, it demonstrates effective emotion detection with cautious identity verification. 
+
 
 
 
